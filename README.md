@@ -82,7 +82,7 @@
 ###  Herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,apachenetbeans,visualstudio,codeblocks" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio" />
 </p>
 
 
@@ -141,13 +141,6 @@ Videojuego 2D orientado a la **concientizacion de cuidar el medio ambiente**.
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrocastalondo-source&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-#  GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alejandrocastalondo-source&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
@@ -184,8 +177,6 @@ Videojuego 2D orientado a la **concientizacion de cuidar el medio ambiente**.
 <a href="https://github.com/alejandrocastalondo-source">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="mailto:alejandro.castalondo@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 
 </p>
