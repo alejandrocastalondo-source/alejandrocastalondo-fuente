@@ -82,7 +82,7 @@
 ###  Herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,netbeans,visualstudio,codeblocks" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,apachenetbeans,visualstudio,codeblocks" />
 </p>
 
 
@@ -184,6 +184,8 @@ Videojuego 2D orientado a la **concientizacion de cuidar el medio ambiente**.
 <a href="https://github.com/alejandrocastalondo-source">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="mailto:alejandro.castalondo@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 
 </p>
