@@ -127,22 +127,14 @@ Videojuego 2D orientado a la **concientizacion de cuidar el medio ambiente**.
 
 `Unity` `C#` `Physics` `2D Game Development`
 
+---
 
+# GitHub Streak
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=[TU_USUARIO]&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
-
-
-#  GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alejandrocastalondo-source&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrocastalondo-source&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-
----
 
 #  Mi actividad
 
