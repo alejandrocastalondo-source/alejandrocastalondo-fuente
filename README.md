@@ -114,7 +114,7 @@ Proyecto desarrollado en **Intellij IDEA** enfocado inicialmente en la simulaci√
 
 ---
 
-## VIDEOJUEGO 2D 
+## PROYECTO LORAX 
 
 Videojuego 2D desarrollado en **Unity** orientado a la **concientizacion de cuidar el medio ambiente**.
 
@@ -129,6 +129,9 @@ Videojuego 2D desarrollado en **Unity** orientado a la **concientizacion de cuid
 
 `Unity` `C#` `Physics` `2D Game Development`
 
+**Repositorio:**
+
+* https://github.com/alejandrocastalondo-source/Proyecto-Lorax
 
 
 ---
