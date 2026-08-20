@@ -93,7 +93,7 @@
 
 ##  MINI NEWTONS — Simulador de Caída Libre
 
-Proyecto desarrollado en **Unity** enfocado inicialmente en la simulación de fenómenos físicos y posteriormente expandido hacia una experiencia interactiva 2D.
+Proyecto desarrollado en **Intellij IDEA** enfocado inicialmente en la simulación de fenómenos físicos y posteriormente expandido hacia una experiencia interactiva 2D.
 
 ###  Características
 
@@ -114,7 +114,7 @@ Proyecto desarrollado en **Unity** enfocado inicialmente en la simulación de fe
 
 ## VIDEOJUEGO 2D 
 
-Videojuego 2D orientado a la **concientizacion de cuidar el medio ambiente**.
+Videojuego 2D desarrollado en **Unity** orientado a la **concientizacion de cuidar el medio ambiente**.
 
 ###  Características
 
