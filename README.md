@@ -12,9 +12,9 @@
 
 > *"El sistema le ha dado la oportunidad de subir de nivel. La mayoría de las personas simplemente vive; yo elegí subir de rango."*
 
-Soy **estudiante de Ingeniería de Sistemas**, y este perfil es mi **panel de estado**: un registro honesto de lo que he entrenado, lo que estoy dominando y lo que aún tengo que cazar.
+Soy **estudiante de Ingeniería de Sistemas**, y este perfil es mi **panel de estado**: Un registro honesto de lo que he entrenado, lo que estoy dominando y lo que aún tengo que cazar.
 
-Mi enfoque principal es el **desarrollo de videojuegos**, aunque como todo cazador que empieza en el Rango E, estoy construyendo una base sólida en programación, lógica y herramientas antes de especializarme a fondo. No busco atajos: busco subir de nivel de verdad.
+Mi enfoque principal es el **desarrollo de videojuegos**, aunque como todo cazador que empieza en el Rango E, estoy construyendo una base sólida en programación, lógica y herramientas antes de especializarme a fondo. No busco atajos: Busco subir de nivel de verdad.
 
 ```txt
 Clase                    → Estudiante de Ingeniería de Sistemas
@@ -66,7 +66,7 @@ Mentalidad               → "Levantarme una vez más que las veces que caiga"
 
 ###  Proyecto Lorax — *Mazmorra de Rango C*
 
-**Videojuego 2D** desarrollado en **Unity (C#)**, creado como proyecto universitario en el semestre 2026-1. Su propósito no es solo entretener: busca **concientizar a niños pequeños sobre el cuidado del medio ambiente** a través de tres niveles cortos centrados en clasificación de residuos, eficiencia energética y contaminación del agua.
+**Videojuego 2D** desarrollado en **Unity (C#)**, creado como proyecto universitario en el semestre 2026-1. Su proposito no es solo entretener: Busca **concientizar a niños pequeños sobre el cuidado del medio ambiente** a traves de tres niveles cortos centrados en clasificación de residuos, eficiencia energética y contaminación del agua.
 
 El personaje principal despierta poderes de **cargas positivas y negativas (magnetismo)**, que usa tanto para atacar como para defenderse — una mecánica pensada para enseñar jugando.
 
