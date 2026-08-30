@@ -1,181 +1,146 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<!--                        HEADER                                   -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=220&section=header&text=Daniel%20Castañeda&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=System's%20Monarch%20%7C%20Ingeniero%20de%20Sistemas%20en%20ascenso&descAlignY=55&descSize=18"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com/?lines=Ha+despertado+un+nuevo+poder...;%22Arise%22;Solo+quiero+ser+m%C3%A1s+fuerte+que+ayer.;Game+Developer+in+training;Ingenier%C3%ADa+de+Sistemas+%E2%80%94+Nivel+en+progreso&font=Fira%20Code&center=true&width=600&height=45&color=B983FF&vCenter=true&size=22&pause=1800"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=200&section=header&text=Daniel%20Castañeda&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<h1 align="center"> Hola, soy Daniel</h1>
-
-<p align="center">
-  <strong>Systems Engineering Student • Tech Enthusiast</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/[TU_USUARIO]">
-    <img src="https://img.shields.io/github/followers/alejandrocastalondo-source?label=Followers&style=for-the-badge"/>
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=alejandrocastalondo-source&style=for-the-badge&color=blue"/>
-</p>
+</div>
 
 ---
 
-##  Sobre mí
+##  Registro del Cazador
 
- Estudiante de **Ingeniería de Sistemas**.
+[#-registro-del-cazador](#-registro-del-cazador)
 
- Me interesa el desarrollo de software, el desarrollo web y la creación de soluciones tecnológicas.
+> *"El sistema le ha dado la oportunidad de subir de nivel. La mayoría de las personas simplemente vive; yo elegí subir de rango."*
 
- También me gusta el desarrollo de videojuegos y la experimentación con nuevas tecnologías.
+Soy **estudiante de Ingeniería de Sistemas**, y este perfil es mi **panel de estado**: un registro honesto de lo que he entrenado, lo que estoy dominando y lo que aún tengo que cazar.
 
- Actualmente estoy fortaleciendo mis conocimientos en **programación, bases de datos, estructuras de datos y desarrollo web**.
+Mi enfoque principal es el **desarrollo de videojuegos**, aunque como todo cazador que empieza en el Rango E, estoy construyendo una base sólida en programación, lógica y herramientas antes de especializarme a fondo. No busco atajos: busco subir de nivel de verdad.
 
- Mi objetivo es seguir construyendo proyectos que me permitan convertir ideas en soluciones reales.
-
----
-
-##  Actualmente
-
-```text
- Trabajando en      → Sistema de gestion y reserva de espectaculos y eventos
-
- Aprendiendo        → Python - JavaScript - PostgreSQL
-
- Interesado en      → Software Development / Web / Game Development
-
- Objetivo           → Convertirme en un desarrollador cada vez más completo
-
+```txt
+Clase                → Estudiante de Ingeniería de Sistemas
+Especialización      → Desarrollo de Videojuegos
+Estado               → En entrenamiento activo (grinding)
+Objetivo a largo plazo → Convertirme en un desarrollador de rango S
+Mentalidad           → "Levantarme una vez más que las veces que caiga"
 ```
 
 ---
 
-#  Tech Stack
+##  Panel de Estado — Stack Técnico
 
-###  Lenguajes
+[#%EF%B8%8F-panel-de-estado--stack-técnico](#%EF%B8%8F-panel-de-estado--stack-técnico)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,cs" />
-</p>
+<div align="center">
 
-###  Desarrollo Web
+###  Lenguajes de combate
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java" />
 
-###  Bases de datos
+###  Motor de invocación (Game Dev)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
+<img src="https://skillicons.dev/icons?i=unity" />
 
-###  Game Development
+###  Armas e IDEs
 
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,cs" />
-</p>
+<img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode" />
+<br/>
+<img src="https://img.shields.io/badge/Code::Blocks-1F1F1F?style=for-the-badge&logo=codeblocks&logoColor=white" />
 
-###  Herramientas
+###  Herramientas de gremio
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github" />
 
+</div>
 
+<br/>
 
----
-
-#  Proyectos destacados
-
-##  MINI NEWTONS — Simulador de Caída Libre
-
-Proyecto desarrollado en **Intellij IDEA** enfocado inicialmente en la simulación de fenómenos físicos y posteriormente expandido hacia una experiencia interactiva 2D.
-
-###  Características
-
-*  Simulación de caída libre
-*  Diferentes valores de gravedad
-*  Resistencia del aire
-*  Cálculos físicos
-*  Visualización de velocidad
-
-
-**Tecnologías:**
-
-`Intellij IDEA` `Java` `Physics` 
-
-**Repositorio:**
-
-* https://github.com/alejandrocastalondo-source/Mini-Newtons
+| Categoría | Herramientas |
+|---|---|
+| **Lenguajes** | C · C# · Java |
+| **Desarrollo de videojuegos** | Unity (C#) |
+| **Entornos de desarrollo** | IntelliJ IDEA · Visual Studio · VS Code · Code::Blocks |
+| **Control de versiones** | Git · GitHub |
 
 ---
 
-## PROYECTO LORAX 
+##  Mazmorras completadas (Proyectos destacados)
 
-Videojuego 2D desarrollado en **Unity** orientado a la **concientizacion de cuidar el medio ambiente**.
+[#-mazmorras-completadas-proyectos-destacados](#-mazmorras-completadas-proyectos-destacados)
 
-###  Características
+###  Proyecto Lorax — *Mazmorra de Rango C*
 
-*  Sistema de juego 2D
-*  Puzzles y plataformas
-*  Sistema de cargas y poderes
+**Videojuego 2D** desarrollado en **Unity (C#)**, creado como proyecto universitario en el semestre 2026-1. Su propósito no es solo entretener: busca **concientizar a niños pequeños sobre el cuidado del medio ambiente** a través de tres niveles cortos centrados en clasificación de residuos, eficiencia energética y contaminación del agua.
 
+El personaje principal despierta poderes de **cargas positivas y negativas (magnetismo)**, que usa tanto para atacar como para defenderse — una mecánica pensada para enseñar jugando.
 
-**Tecnologías:**
+> Inspirado levemente en el universo de *El Lorax*, sin fines de lucro y sin intención de plagio.
 
-`Unity` `C#` `Physics` `2D Game Development`
+**Habilidades invocadas:** `Unity` `C#` `2D Game Development` `Diseño educativo`
 
-**Repositorio:**
-
-* https://github.com/alejandrocastalondo-source/Proyecto-Lorax
-
+ Repositorio: [Proyecto-Lorax](https://github.com/alejandrocastalondo-source/Proyecto-Lorax)
 
 ---
 
-#  Mis objetivos
+###  Mini Newtons — *Mazmorra de Rango D*
 
-```text
-[ ] Aprender programación
-[ ] Aprender Git y GitHub
-[ ] Crear proyectos personales
-[ ] Trabajar con bases de datos
-[ ] Mejorar mis habilidades de desarrollo web
-[ ] Construir proyectos más grandes
+Simulador de **caída libre**, desarrollado en **IntelliJ IDEA** con **Java**. Nació como una simulación de fenómenos físicos y evolucionó hacia una experiencia interactiva 2D.
+
+**Características:**
+- Simulación de caída libre con distintos valores de gravedad
+- Resistencia del aire
+- Cálculos físicos en tiempo real
+- Visualización de velocidad
+
+**Habilidades invocadas:** `Java` `IntelliJ IDEA` `Física aplicada`
+
+ Repositorio: [Mini-Newtons](https://github.com/alejandrocastalondo-source/Mini-Newtons)
+
+---
+
+##  Registro de subida de nivel (Objetivos actuales)
+
+[#-registro-de-subida-de-nivel-objetivos-actuales](#-registro-de-subida-de-nivel-objetivos-actuales)
 
 ```
+[■■■■■■■□□□] Fundamentos de programación (C, C#, Java)
+[■■■■■□□□□□] Desarrollo de videojuegos con Unity
+[■■■□□□□□□□] Git y control de versiones
+[■■□□□□□□□□] Bases de datos
+[■□□□□□□□□□] Proyectos personales de mayor escala
+```
 
-
-
-
+**Próximas misiones:**
+- [ ] Dominar Git y GitHub como flujo de trabajo diario
+- [ ] Profundizar en desarrollo de videojuegos con Unity
+- [ ] Fortalecer bases de datos y estructuras de datos
+- [ ] Construir proyectos personales más ambiciosos
+- [ ] Subir de rango, un commit a la vez
 
 ---
 
-#  Conecta conmigo
+##  Contactar al gremio
 
-<p align="center">
+[#-contactar-al-gremio](#-contactar-al-gremio)
+
+<div align="center">
 
 <a href="https://github.com/alejandrocastalondo-source">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="mailto:alejandro.castalondo@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-###  "Qué desgracia sería para un hombre envejecer sin haber descubierto hasta dónde era capaz de llegar."
+### *"Qué desgracia sería para un hombre envejecer sin haber descubierto hasta dónde era capaz de llegar."*
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6A5ACD&height=120&section=footer"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=120&section=footer"/>
-</p>
+</div>
