@@ -10,8 +10,6 @@
 
 ##  Registro del Cazador
 
-[#-registro-del-cazador](#-registro-del-cazador)
-
 > *"El sistema le ha dado la oportunidad de subir de nivel. La mayoría de las personas simplemente vive; yo elegí subir de rango."*
 
 Soy **estudiante de Ingeniería de Sistemas**, y este perfil es mi **panel de estado**: un registro honesto de lo que he entrenado, lo que estoy dominando y lo que aún tengo que cazar.
@@ -19,24 +17,22 @@ Soy **estudiante de Ingeniería de Sistemas**, y este perfil es mi **panel de es
 Mi enfoque principal es el **desarrollo de videojuegos**, aunque como todo cazador que empieza en el Rango E, estoy construyendo una base sólida en programación, lógica y herramientas antes de especializarme a fondo. No busco atajos: busco subir de nivel de verdad.
 
 ```txt
-Clase                → Estudiante de Ingeniería de Sistemas
-Especialización      → Desarrollo de Videojuegos
-Estado               → En entrenamiento activo (grinding)
-Objetivo a largo plazo → Convertirme en un desarrollador de rango S
-Mentalidad           → "Levantarme una vez más que las veces que caiga"
+Clase                    → Estudiante de Ingeniería de Sistemas
+Interes                  → Desarrollo de Videojuegos
+Estado                   → En entrenamiento activo (grinding)
+Objetivo a largo plazo   → Convertirme en un desarrollador de rango S
+Mentalidad               → "Levantarme una vez más que las veces que caiga"
 ```
 
 ---
 
 ##  Panel de Estado — Stack Técnico
 
-[#%EF%B8%8F-panel-de-estado--stack-técnico](#%EF%B8%8F-panel-de-estado--stack-técnico)
-
 <div align="center">
 
 ###  Lenguajes de combate
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java" />
+<img src="https://skillicons.dev/icons?i=c,cs,java" />
 
 ###  Motor de invocación (Game Dev)
 
@@ -47,6 +43,7 @@ Mentalidad           → "Levantarme una vez más que las veces que caiga"
 <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode" />
 <br/>
 <img src="https://img.shields.io/badge/Code::Blocks-1F1F1F?style=for-the-badge&logo=codeblocks&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
 
 ###  Herramientas de gremio
 
@@ -60,14 +57,12 @@ Mentalidad           → "Levantarme una vez más que las veces que caiga"
 |---|---|
 | **Lenguajes** | C · C# · Java |
 | **Desarrollo de videojuegos** | Unity (C#) |
-| **Entornos de desarrollo** | IntelliJ IDEA · Visual Studio · VS Code · Code::Blocks |
+| **Entornos de desarrollo** | IntelliJ IDEA · Visual Studio · VS Code · Code::Blocks · Apache NetBeans |
 | **Control de versiones** | Git · GitHub |
 
 ---
 
 ##  Mazmorras completadas (Proyectos destacados)
-
-[#-mazmorras-completadas-proyectos-destacados](#-mazmorras-completadas-proyectos-destacados)
 
 ###  Proyecto Lorax — *Mazmorra de Rango C*
 
@@ -101,8 +96,6 @@ Simulador de **caída libre**, desarrollado en **IntelliJ IDEA** con **Java**. N
 
 ##  Registro de subida de nivel (Objetivos actuales)
 
-[#-registro-de-subida-de-nivel-objetivos-actuales](#-registro-de-subida-de-nivel-objetivos-actuales)
-
 ```
 [■■■■■■■□□□] Fundamentos de programación (C, C#, Java)
 [■■■■■□□□□□] Desarrollo de videojuegos con Unity
@@ -121,8 +114,6 @@ Simulador de **caída libre**, desarrollado en **IntelliJ IDEA** con **Java**. N
 ---
 
 ##  Contactar al gremio
-
-[#-contactar-al-gremio](#-contactar-al-gremio)
 
 <div align="center">
 
