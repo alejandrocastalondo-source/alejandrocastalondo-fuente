@@ -66,7 +66,7 @@ Mentalidad               → "Levantarme una vez más que las veces que caiga"
 
 ###  Proyecto Lorax — *Mazmorra de Rango C*
 
-**Videojuego 2D** desarrollado en **Unity (C#)**, creado como proyecto universitario en el semestre 2026-1. Su proposito no es solo entretener: Busca **concientizar a niños pequeños sobre el cuidado del medio ambiente** a traves de tres niveles cortos centrados en clasificación de residuos, eficiencia energética y contaminación del agua.
+**Videojuego 2D** desarrollado en **Unity (C#)**, creado como proyecto universitario en el semestre 2026-1. Su objetivo no es solo entretener: Busca **concientizar a niños pequeños sobre el cuidado del medio ambiente** a traves de tres niveles cortos centrados en clasificación de residuos, eficiencia energética y contaminación del agua.
 
 El personaje principal despierta poderes de **cargas positivas y negativas (magnetismo)**, que usa tanto para atacar como para defenderse — una mecánica pensada para enseñar jugando.
 
